@@ -18,4 +18,4 @@ parameter update
 ## 下周计划
 
 - 学习CNN
-- 阅读OpenCOOD train.py
+- 继续环境配置学习
